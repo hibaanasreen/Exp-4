@@ -3,13 +3,13 @@
 # AIM:
 To design and develop a Hospital Management System for maintaining patient, doctor, and appointment details efficiently.
 # SRS (Procedure):
-1.Collect system requirements for managing patients, doctors, appointments, and billing.
+1.Identify the objectives and scope of the system.
 
-2.Design the system using DFDs, ER diagram, and UML diagrams.
+2.Collect and analyze user and system requirements.
 
-3.Implement modules for patient registration, doctor assignment, and report generation.
+3.Specify functional and non-functional requirements.
 
-4.Test and validate the system for accuracy, reliability, and performance.
+4.Prepare, review, and finalize the SRS document
 
 # DIAGRAMS:
 ```python
